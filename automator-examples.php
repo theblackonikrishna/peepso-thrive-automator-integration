@@ -43,7 +43,7 @@ add_action( 'thrive_automator_init', static function () {
 
 	thrive_automator_register_data_field( WooProductStock::class );
 	
-	/* PeepSo Actions */
+	/* PeepSo Thrive Automator App Registration */
 	thrive_automator_register_app( PeepSo_ThriveAutomator_App::class );
 	/* PeepSo Actions */
 	thrive_automator_register_action( PeepSoAddToGroup::class );
