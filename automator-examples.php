@@ -22,6 +22,10 @@ use AutomatorExamples\Apps\Example_App;
 use AutomatorExamples\DataFields\Woocommerce\WooProductStock;
 use AutomatorExamples\Triggers\Woocommerce\Stock;
 
+/* PeepSo Thrive Automator App namespaces */
+use PeepSoAutomatorExamples\Apps\PeepSo_ThriveAutomator_App;
+use AutomatorExamples\Actions\PeepSoGroups;
+
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Silence is golden!
 }
