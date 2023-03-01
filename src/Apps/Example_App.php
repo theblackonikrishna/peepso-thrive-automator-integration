@@ -15,11 +15,11 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 class Example_App extends App {
 	public static function get_id() {
-		return 'example_app';
+		return 'peepso_app';
 	}
 
 	public static function get_name() {
-		return 'PeepSo App';
+		return 'PeepSo';
 	}
 
 	public static function get_description() {
