@@ -28,7 +28,7 @@ class StartCampaign extends \Thrive\Automator\Items\Action {
 	}
 
 	public static function get_image() {
-		return 'https://www.peepso.com/wp-content/peepso/users/42279/5d7451d580-avatar-full.jpg'';
+		return 'https://www.peepso.com/wp-content/peepso/users/42279/5d7451d580-avatar-full.jpg';
 	}
 
 	public static function get_app_id() {
