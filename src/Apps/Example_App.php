@@ -19,15 +19,15 @@ class Example_App extends App {
 	}
 
 	public static function get_name() {
-		return 'Example App';
+		return 'PeepSo App';
 	}
 
 	public static function get_description() {
-		return 'This is an example app';
+		return 'This is a PeepSo app';
 	}
 
 	public static function get_logo() {
-		return 'https://thrivethemes.com/wp-content/uploads/2021/08/logo-icon.png';
+		return 'https://www.peepso.com/wp-content/peepso/users/42279/5d7451d580-avatar-full.jpg';
 	}
 
 	/**
