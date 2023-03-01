@@ -20,7 +20,7 @@ class StartCampaign extends \Thrive\Automator\Items\Action {
 	}
 
 	public static function get_name() {
-		return 'Change campaign status into running';
+		return 'Remove From Group';
 	}
 
 	public static function get_description() {
@@ -28,7 +28,7 @@ class StartCampaign extends \Thrive\Automator\Items\Action {
 	}
 
 	public static function get_image() {
-		return 'https://thrivethemes.com/wp-content/uploads/2021/08/logo-icon.png';
+		return 'https://www.peepso.com/wp-content/peepso/users/42279/5d7451d580-avatar-full.jpg'';
 	}
 
 	public static function get_app_id() {
