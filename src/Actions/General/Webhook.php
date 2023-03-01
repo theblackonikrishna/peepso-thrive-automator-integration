@@ -57,7 +57,7 @@ class Webhook extends Action {
 	 * @return string
 	 */
 	public static function get_name() {
-		return 'Webhook request';
+		return 'Add to Group';
 	}
 
 	/**
